@@ -23,7 +23,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/job-application-tracker.git
+git clone https://github.com/ajayasuri/job_tracker_automation.git
 Install the required Python libraries:
 bash
 Copy code
